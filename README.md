@@ -1,0 +1,1 @@
+So far only a folder containing files with simple shell commands
