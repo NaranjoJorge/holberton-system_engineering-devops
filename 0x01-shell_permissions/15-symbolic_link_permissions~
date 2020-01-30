@@ -1,0 +1,3 @@
+#!/bin/bash
+chown betty _hello
+chgrp holberton _hello
