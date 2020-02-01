@@ -1,0 +1,1 @@
+Project that contain executable scripts regarding: redirection, special characters, filters and other CLI commands.
