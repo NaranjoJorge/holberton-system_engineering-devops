@@ -1,0 +1,1 @@
+Proyect that contain executable scripts regarding shell variables & expansions.
